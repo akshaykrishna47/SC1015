@@ -52,3 +52,7 @@ Which model would make the best prediction?
 ### References 
 * https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website
 * https://www.educative.io/answers/how-to-install-tensorflow-in-jupyter-notebook
+* https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
+* https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/
+* https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+* https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/#:~:text=What%20is%20a%20random%20forest,consists%20of%20many%20decision%20trees.
