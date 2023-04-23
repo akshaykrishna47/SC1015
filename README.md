@@ -28,15 +28,21 @@ Which model would make the best prediction?
 
 ### Models Used 
 1. Linear Regression 
-2. Neural Network - MLP 
-3. Neural Network - LSTM 
+2. Neural Network - LSTM 
+3. Neural Network - MLP 
 4. Random Forest 
 
 ### Conclusion 
-Using the MLP model, we noticed that downloads affected the IMDb rating the most. An interesting insight we had was that the MLP algorithm provided us with the most accurate results. This shows that the MLP neural network should be used for cases like this.
+* Different models yield different accuracies in predicting ratings
+* Amongst all the models used (linear regression, LSTM, MLP, random forest) the MLP algorithm provided us with the most accurate results
+* From the MLP model, we discovered that the 'downloads' variable had the greatest influence on movie ratings 
 
 ### What we learnt from this project 
-We learnt how to clean, process, take samples and run tests on the dataset. Moreover, we learnt to recognise which algorithm should be used for what cases. For example, Random Forest is more suitable for catagorial variables. Lastly, we learnt how to check the accuracy of our models, which will allow us to ensure the quality of our research in the future.
+*  We learnt how to clean, process, take samples and run tests on the dataset
+*  We learnt that different models are suitable for different cases. For example, Random Forest is more suitable for categorical variables
+*  Various methods of undersampling and oversampling
+*  The implementation and workings of neural networks and random forest models 
+*  Checking the accuarcy and reliability of our results through data visualisation and metrics such as mean squared error 
 
 ### References 
 * https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website
