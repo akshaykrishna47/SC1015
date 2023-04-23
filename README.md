@@ -44,6 +44,11 @@ Which model would make the best prediction?
 *  The implementation and workings of neural networks and random forest models 
 *  Checking the accuarcy and reliability of our results through data visualisation and metrics such as mean squared error 
 
+### Contributors 
+* Susanna (Exploratory Data Analysis, Slides, Video)
+* Akshay (Sampling Methods, MLP, Random Forest)
+* Ayesha (Extraction, Linear Regression, LSTM)
+
 ### References 
 * https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website
 * https://www.educative.io/answers/how-to-install-tensorflow-in-jupyter-notebook
