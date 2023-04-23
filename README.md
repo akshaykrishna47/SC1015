@@ -17,7 +17,7 @@ Our project focuses on a [Movies Dataset](https://www.kaggle.com/datasets/arsala
     * Used the MLP model to predict 'IMDb-rating' 
 7. [Random Forest Model](https://github.com/bombaysus/DSAI-Project/blob/main/Random-Forest.ipynb)
     * Used a random forest classifier to predict whether a movie is good 
-8. [Slides](https://www.canva.com/design/DAFf9rcu6s8/w6gq4MoB29SS2wjxG27xrQ/edit utm_content=DAFf9rcu6s8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+8. [Slides](https://www.canva.com/design/DAFf9rcu6s8/_Z2kIJdfm5uJg5uSSkSJbA/watch?utm_content=DAFf9rcu6s8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
     * Summarises our project and our findings 
   
 
