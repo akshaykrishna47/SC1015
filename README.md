@@ -1,6 +1,6 @@
 # SC1015 Data Science & AI project
 ### About
-This is a project for SC1015(Introduction to Data Science and Artificial Intelligence).
+This is a project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 Our project focuses on a [Movies Dataset](https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website). The order of files are as follows:
 
 1. [Data Extraction](https://github.com/bombaysus/DSAI-Project/blob/main/Data-Extraction.ipynb) 
