@@ -11,6 +11,7 @@ Which model would make the best prediction?
 1. Linear Regression 
 2. Neural Network - MLP 
 3. Neural Network - LSTM 
+4. Random Forest 
 
 ### Conclusion 
 Using the MLP model, we noticed that downloads affected the IMDb rating the most. An interesting insight we had was that the MLP algorithm provided us with the most accurate results. This shows that the MLP neural network should be used for cases like this.
