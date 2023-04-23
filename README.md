@@ -5,7 +5,7 @@ Our project utilises the movies dataset from https://www.kaggle.com/datasets/ars
 ### Problem Defintion 
 Are we able to predict which factors are the most influential in getting people to watch a movie?
 
-Which model would make the best to prediction?
+Which model would make the best prediction?
 
 ### Models Used 
 1. Linear Regression 
